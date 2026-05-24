@@ -6,6 +6,8 @@
 
 📢 [**t.me/rust_code**](https://t.me/+cb7uEH9UBEZmNzVi) — основной Telegram-канал с уроками и разбором кода для Rust-разработчиков.
 
+🤖 [**t.me/ai_machinelearning_big_data**](https://t.me/+QSLwGNLsJ1xlZmQy) — полезный Telegram-канал про ИИ, машинное обучение и Big Data: статьи, разборы моделей, новости и практические материалы.
+
 ---
 
 ## 📑 Оглавление
